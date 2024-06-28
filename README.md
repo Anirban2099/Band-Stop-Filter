@@ -1,2 +1,2 @@
 # Bandwidth-Stop-Filter
-Its a project that is simulated on NI MULTISIM 14 and later it was done on HARDWARE by me. It was my ECE 4th SEM Project .
+a BSF Filter that stops frequency of range 1khz to 5khz and allow rest. Its simulated on NI Multisim and later done on Hardware (Breadboard) .
